@@ -4,6 +4,7 @@ import {
   OptionalRegExId,
   RegExId,
   OptionalString,
+  Blackbox,
   OptionalBlackbox,
   OptionalInteger,
 } from '/imports/api/utils/schema-util'

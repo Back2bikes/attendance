@@ -8,3 +8,5 @@ runstg.sh
 sb-build
 x
 dev.*.settings.json
+.vscode
+../.vscode

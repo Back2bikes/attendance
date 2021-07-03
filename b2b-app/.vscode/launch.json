@@ -18,10 +18,10 @@
       "type": "chrome",
       "request": "attach",
       "name": "Attach Chrome",
-      "url": "http://localhost:4080/reports",
+      "url": "http://localhost:4090/admin/register",
       "webRoot": "${workspaceFolder}",
       "run_chrome_like_this:": "'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --remote-debugging-port=9222",
-      "navigate to:": "http://localhost:4080/admin",
+      "navigate to:": "http://localhost:4090/admin/register",
       "port": 9222
     },
     {

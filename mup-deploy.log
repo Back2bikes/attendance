@@ -159,3 +159,5 @@ Thu 1 Apr 2021 07:07:44 AEDT /Users/mikkel/back2bikes/attendance/deploy/b2b-prod
 Thu 1 Apr 2021 07:16:50 AEDT /Users/mikkel/back2bikes/attendance/deploy/b2b-prod reconfig old-jobs https://app.back2bikes.com.au 1.2.8
 Wed 9 Jun 2021 21:29:13 AEST /Users/mikkel/back2bikes/attendance/deploy/b2b-demo deploy v2 https://demo.back2bikes.com.au 2.0.0
 Wed 9 Jun 2021 21:39:29 AEST /Users/mikkel/back2bikes/attendance/deploy/b2b-demo reconfig v2 https://demo.back2bikes.com.au 2.0.0
+Wed 9 Jun 2021 22:39:58 AEST /Users/mikkel/back2bikes/attendance/deploy/b2b-demo reconfig v2 https://demo.back2bikes.com.au 2.0.0
+Wed 9 Jun 2021 22:46:37 AEST /Users/mikkel/back2bikes/attendance/deploy/b2b-demo reconfig v2 https://demo.back2bikes.com.au 2.0.0

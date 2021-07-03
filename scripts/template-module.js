@@ -45,7 +45,7 @@ const files = [
 ]
 
 const coldefs2String = (coldefs) => {
-  const fixers = 'String Date Number Array Boolean Object OptionalRegExId OptionalBlackbox RegExId createdAt updatedAt SimpleSchema.Integer OptionalInteger OptionalString'.split(
+  const fixers = 'String Date Number Array Boolean Object OptionalRegExId OptionalBlackbox Blackbox RegExId createdAt updatedAt SimpleSchema.Integer OptionalInteger OptionalString'.split(
     /\s+/
   )
   let coldefsJSON = JSON.stringify(coldefs, null, 2)

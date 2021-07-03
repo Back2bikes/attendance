@@ -3,6 +3,7 @@ import SimpleSchema from 'simpl-schema'
 
 import {
   OptionalRegExId,
+  Blackbox,
   OptionalBlackbox,
   OptionalInteger,
   OptionalString,

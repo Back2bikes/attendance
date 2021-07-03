@@ -32,6 +32,9 @@ Meteor.startup(() => {
 const SMS_URL = 'https://api.smsbroadcast.com.au/api-adv.php'
 
 Meteor.methods({
+  hello(name) {
+    debug(`Hello from the server, ${name}`)
+  },
   sendPINSms(message = DEFAULT_MESSAGE, destination = DEFAULT_DESTINATION) {
     if (smsSettings.enabled) {
       debug(`Sending message ${message} to ${destination}`)
